@@ -1,6 +1,2 @@
-twitter MULTI BRUTE FORCE
-
-100% working but headers problem!
-
-
-note its complied
+this code gets updated every day 
+disable telegram account in seconds 
